@@ -1,4 +1,4 @@
-<center>Centered TEST</center>
+<p style="text-align:center"> example text </p>
 
 
 
