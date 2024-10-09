@@ -4,7 +4,6 @@
 ***
 
 ### Education
-***
 
 #### University of Louisville
 #### Mechanical Engineering
