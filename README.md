@@ -1,12 +1,13 @@
-<h1 align="center">Alex Basil</h1>
-<p align="center">316 Iola Rd</p>
-<p align="center">Louisville, Ky 40207</p>
-
+<h3 align="center">Alex Basil</h3>
+<h6 align="center">316 Iola Rd</h6>
+<h6 align="center">Louisville, Ky 40207</h6>
 ***
 
-## Education
-### University of Louisville
-### Mechanical Engineering
+### Education
+***
+
+#### University of Louisville
+#### Mechanical Engineering
 - Cumulative GPA 3.25 || Major GPA 3.35 || Commonwealth Scholarship || River City Rocketry
 
 # H1 Heading
