@@ -1,9 +1,11 @@
 <h3 align="center">Alex Basil</h3>
 <h6 align="center">316 Iola Rd</h6>
 <h6 align="center">Louisville, Ky 40207</h6>
+
 ***
 
 ### Education
+
 ***
 
 #### University of Louisville
