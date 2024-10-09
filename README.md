@@ -5,8 +5,9 @@
 ***
 
 ## Education
-###University of Louisville
-
+### University of Louisville
+### Mechanical Engineering
+- Cumulative GPA 3.25 || Major GPA 3.35 || Commonwealth Scholarship || River City Rocketry
 
 # H1 Heading
 ## H2 Heading
