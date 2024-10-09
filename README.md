@@ -1,5 +1,4 @@
-<p style="text-align:center"> example text </p>
-
+<h1 align="center">Material Bread</h1>
 
 
 # H1 Heading
